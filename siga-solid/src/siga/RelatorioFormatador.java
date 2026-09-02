@@ -18,7 +18,6 @@ import java.util.List;
 
 public class RelatorioFormatador {
 
-    // Responsabilidade (a): FORMATAÇÃO
     public String formatar(List<Aluno> alunos) {
         StringBuilder sb = new StringBuilder();
         sb.append("=== Relatório de Alunos ===\n");
