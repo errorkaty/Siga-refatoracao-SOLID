@@ -3,13 +3,6 @@ package siga;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Ponto de entrada do SIGA (código INICIAL da atividade da Aula 3).
- *
- * Esta classe demonstra, em execução, os três problemas de design que você
- * deverá corrigir aplicando os princípios SOLID. Rode o programa e observe:
- * ele FUNCIONA — mas o código não resiste bem à mudança, como discutido em aula.
- */
 public class Main {
 
     public static void main(String[] args) {
