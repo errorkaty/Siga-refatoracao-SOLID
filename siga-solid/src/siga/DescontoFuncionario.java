@@ -1,5 +1,6 @@
 package siga;
 
+
 public class DescontoFuncionario implements Desconto {
 
     @Override
